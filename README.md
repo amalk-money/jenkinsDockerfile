@@ -30,8 +30,12 @@ So in this project, I have shown this setup.
 
 ![web page](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/Screenshot%20(333).png)
 
-Now copy the given location and paste the password here and access the Jenkins.
+Now copy the given location and paste the password at that location and access the Jenkins.
 Now after further setup, we can access the page.
 
 
 ![Jenkins page](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/Screenshot%20(335).png)
+
+## Jenkins Jobs
+
+Refer the given link for the jenkins jobs : https://github.com/amalk-money/jenkinsProject
