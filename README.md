@@ -16,7 +16,7 @@ So in this project, I have shown this setup.
 
 ### `docker run -it --name docker_name image_name` to run the docker container.
 
-![docker run](https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/prodtrigger.png)
+![docker run](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/Screenshot%20(330).png)
 
 ### To start the Jenkins, I used the command `etc/init.d/jenkins start` to start the service.
 
