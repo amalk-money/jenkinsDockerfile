@@ -28,9 +28,9 @@ So in this project, I have shown this setup.
 
 ### Using the ip address we can access the Jenkins web page.
 
-![web page](https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/buildprod.png)
+![web page](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/Screenshot%20(333).png)
 
-In copy the given location and paste the password here and access the Jenkins.
+Now copy the given location and paste the password here and access the Jenkins.
 Now after further setup, we can access the page.
 
 
