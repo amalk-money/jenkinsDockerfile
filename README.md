@@ -10,7 +10,7 @@ So in this project, I have shown this setup.
 
 ### After downloading the Dockerfile, use the command `docker build --rm -t name: version location '.
 
-![Dockerfile build](https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/prodgiturl.png)
+![Dockerfile build](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/Screenshot%20(329).png)
 
 ### After the setup is build successful, docker image is created and now can be used to run the docker.
 
