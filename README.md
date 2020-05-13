@@ -12,7 +12,7 @@ So in this project, I have shown this setup.
 
 ![Dockerfile build](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/Screenshot%20(329).png)
 
-### After the setup is build successful, docker image is created and now can be used to run the docker.
+### After the setup is build successfully, docker image is created and now can be used to run the docker.
 
 ### `docker run -it --name docker_name image_name` to run the docker container.
 
