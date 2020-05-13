@@ -20,7 +20,7 @@ So in this project, I have shown this setup.
 
 ### To start the Jenkins, I used the command `etc/init.d/jenkins start` to start the service.
 
-![start service](https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/buildprod.png)
+![start service](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/Screenshot%20(332)~3.png)
 
 ### Using the inspect command I retrieved the ip address of the container
 
