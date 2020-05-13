@@ -13,5 +13,3 @@ RUN yum install java-1.8.0-openjdk -y
 RUN yum install initscripts -y
 
 RUN /etc/init.d/jenkins start
-
-EXPOSE 80
