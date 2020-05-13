@@ -24,7 +24,7 @@ So in this project, I have shown this setup.
 
 ### Using the inspect command I retrieved the ip address of the container
 
-![ip addresses](https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/buildprod.png)
+![ip addresses](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/Screenshot%20(332).png)
 
 ### Using the ip address we can access the Jenkins web page.
 
