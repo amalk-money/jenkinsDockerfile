@@ -33,4 +33,5 @@ So in this project, I have shown this setup.
 In copy the given location and paste the password here and access the Jenkins.
 Now after further setup, we can access the page.
 
-![Jenkins page](https://github.com/amalk-money/jenkinsProject/blob/master/screenShots/buildprod.png)
+
+![Jenkins page](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/Screenshot%20(335).png)
