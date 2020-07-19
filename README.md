@@ -67,6 +67,6 @@ To demonstrate it, I used a different php file to show it.
 
 ![Jenkins page](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/oknot.png)
 
-###Result and Conclusion
+### Result and Conclusion
 Finally created a Delivery Pipeline to work this scenario out.
 ![Jenkins page](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/pip.png)
