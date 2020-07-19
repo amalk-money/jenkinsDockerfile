@@ -69,4 +69,4 @@ To demonstrate it, I used a different php file to show it.
 
 ### Result and Conclusion
 Finally created a Delivery Pipeline to work this scenario out.
-![Jenkins page](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/pip.png)
+![Jenkins page](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/pipe.png)
