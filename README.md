@@ -4,13 +4,13 @@ In this project, I have created a DockerFile to create the setup of Jenkins. And
 So in this project, I have shown this setup.
 ## Building the Dockerfile
 ### After downloading the Dockerfile, use the command `docker build --rm -t name: version location '.
-![Dockerfile build](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/jen 1.png)
+![Dockerfile build](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/jen1.png)
 ### After the setup is build successfully, docker image is created and now can be used to run the docker.
 ### `docker run -it --name docker_name image_name` to run the docker container.
 ### To start the Jenkins, I used the command `etc/init.d/jenkins start` to start the service.
-![start service](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/jen 2.png)
+![start service](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/jen2.png)
 ### Using the inspect command I retrieved the ip address of the container
-![ip addresses](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/jen 3.png)
+![ip addresses](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/jen3.png)
 ### Using the ip address we can access the Jenkins web page.
 ![web page](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/jen 4.png)
 Now copy the given location and paste the password at that location and access the Jenkins.
@@ -56,3 +56,11 @@ To demonstrate it, I used a different php file to show it.
 ###Result and Conclusion
 Finally created a Delivery Pipeline to work this scenario out.
 ![Jenkins page](https://github.com/amalk-money/jenkinsDockerfile/blob/master/IMG/pip.png)
+
+ 
+
+
+
+
+
+
